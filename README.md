@@ -30,8 +30,9 @@ A full-stack social media application built using the MERN stack (MongoDB, Expre
 - Create a `.env` file in the root directory with the following environment variables:
 
 ```env
-MONGODB_URI=your_mongodb_connection_uri
+MONGO_URL=your_mongodb_connection_uri
 JWT_SECRET=your_jwt_secret
+PORT=3001
 ```
 ## Usage
 
