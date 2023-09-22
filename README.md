@@ -8,9 +8,6 @@ A full-stack social media application built using the MERN stack (MongoDB, Expre
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
 
 ## Installation
 
