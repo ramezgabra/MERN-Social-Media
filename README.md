@@ -12,7 +12,7 @@ A full-stack social media application built using the MERN stack (MongoDB, Expre
 
 ## Demo
 
-Check out the live demo of YelpCamp: [YelpCamp Live Demo](https://yelpcamp-f5jl.onrender.com)
+Check out the live demo: [social media Live Demo](https://mern-social-media-ramez.netlify.app/)
 
 ## Installation
 
